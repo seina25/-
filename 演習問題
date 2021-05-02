@@ -1,0 +1,27 @@
+ツールを学ぼう
+５章【CLIを使って操作してみよう１】
+
+演習問題１
+
+1.pwd
+
+2.ls
+
+3.cd Downloads
+
+4.mkdir sample1
+
+5.cd sample1
+
+6.mkdir sample1-1
+
+7.cd sample1-1
+
+8.pwd
+
+9.cd ~/Downloads
+→cd ../../
+
+
+
+
